@@ -5,7 +5,7 @@ import {
   Text
 } from 'react-native';
 
-import { ButtonIcon } from '../../components/buttonIcon';
+import { ButtonIcon } from '../../components/ButtonIcon';
 
 import IllustrationImg from '../../assets/illustration.png';
 
