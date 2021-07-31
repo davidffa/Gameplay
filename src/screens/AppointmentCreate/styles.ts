@@ -21,6 +21,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     height: 68,
     flexDirection: 'row',
+    backgroundColor: theme.colors.secondary40,
     borderColor: theme.colors.secondary50,
     borderWidth: 1,
     borderRadius: 8,
